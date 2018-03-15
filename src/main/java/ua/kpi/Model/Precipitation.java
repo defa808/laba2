@@ -3,7 +3,11 @@ package ua.kpi.Model;
 import ua.kpi.View;
 
 import java.util.Objects;
-
+/**
+ * class Precipitation for Weather
+ * @autor Gavriliak
+ *
+ */
 public class Precipitation {
     protected TypePrecipitation typePrecipitation;
     protected double amountPrecipitation;

@@ -3,7 +3,11 @@ package ua.kpi.Model;
 import ua.kpi.View;
 
 import java.util.Objects;
-
+/**
+ * class Weather with <b>directionWind</b> <br/> <b>speedWind</b> <br/> <b>temperature</b> <br/> <b>cloudNess</b> <br/> <b>precipitation</b>
+ * @autor Gavriliak
+ *
+ */
 public class Weather {
     protected DirectionWind directionWind;
     protected double speedWind;

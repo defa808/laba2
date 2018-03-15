@@ -2,7 +2,11 @@ package ua.kpi.Model;
 
 import ua.kpi.View;
 import java.util.ResourceBundle;
-
+/**
+ * Enum DirectionWind for Weather
+ * @autor Gavriliak
+ *
+ */
 public enum DirectionWind {
     NORTH,
     NORTHEAST,

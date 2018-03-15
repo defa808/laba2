@@ -2,7 +2,11 @@ package ua.kpi.Model;
 
 import ua.kpi.View;
 import java.util.ResourceBundle;
-
+/**
+ * enum TypePrecipitation for Precipitation
+ * @autor Gavriliak
+ *
+ */
 public enum TypePrecipitation {
     RAIN,
     SNOW,

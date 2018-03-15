@@ -1,5 +1,9 @@
 package ua.kpi.Model;
-
+/**
+ * Enum CloudNess for Weather
+ * @autor Gavriliak
+ *
+ */
 import ua.kpi.View;
 import java.util.ResourceBundle;
 
